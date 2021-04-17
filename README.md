@@ -4,10 +4,6 @@
 
 Created as a project for CISC-603-50-B.
 
-## Built With
-
-* [rply](https://github.com/alex/rply)  - A pure Python parser generator, that also works with RPython.
-
 ### Compiler Checklist
 
 - [ ] Scanner (Lexer)
@@ -20,6 +16,10 @@ Created as a project for CISC-603-50-B.
 ## Getting Started
 
 Work in progress...
+
+## Built With
+
+* [rply](https://github.com/alex/rply)  - A pure Python parser generator, that also works with RPython.
 
 ### Prerequisites
 
