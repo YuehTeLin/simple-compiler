@@ -38,6 +38,22 @@ node compiler.js
 ```
 - Please make sure you are in the correct folder.
 
+### Running
+
+Once ran, you can input arithmetic statement:
+
+    $ node compiler.js
+    > 13 + 2/  2 * 4
+    17
+    >     (  3*3) / 3  +    1
+    2
+
+Or `quit` to quit the program:
+
+    $ node compiler.js
+    > quit
+    quit the program.
+
 ## License
 
 Work in progress...

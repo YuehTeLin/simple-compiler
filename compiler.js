@@ -6,7 +6,7 @@ const readline = require("readline").createInterface({
 });
 
 function initQuestion() {
-  readline.question("input some arithmetic expression: \n", (expression) => {
+  readline.question("input arithmetic statement: \n", (expression) => {
     if (expression === "quit") {
       console.log("quit the program.");
       readline.close();
