@@ -31,7 +31,7 @@ Fork or download the content of the repository to your computer.
 npm install
 ```
 
-And run
+- And run:
 
 ```
 node compiler.js
