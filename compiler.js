@@ -6,13 +6,13 @@ const readline = require("readline").createInterface({
 });
 
 function initQuestion() {
-  readline.question("input arithmetic statement: \n", (expression) => {
-    if (expression === "quit") {
+  readline.question("input arithmetic statement: \n", (statement) => {
+    if (statement === "quit") {
       console.log("quit the program.");
       readline.close();
       return;
     }
-    const result = parser.parse(expression);
+    const result = parser.parse(statement);
     console.log(result);
     initQuestion();
   });
