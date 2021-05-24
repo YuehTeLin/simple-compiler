@@ -13,7 +13,7 @@ Created as a project for CISC-603-50-B.
 
 ## Built With
 
-* [PEG.js](https://pegjs.org/documentation)  - A pure JavaScirpt parser generator.
+* [PEG.js] - A pure JavaScirpt parser generator.
 
 ## Getting Started
 
@@ -40,3 +40,7 @@ node compiler.js
 ## License
 
 Work in progress...
+
+[node.js]: https://nodejs.org/
+[npm]: https://www.npmjs.com/get-npm
+[PEG.js]: https://pegjs.org/documentation
