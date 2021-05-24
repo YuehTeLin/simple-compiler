@@ -6,28 +6,36 @@ Created as a project for CISC-603-50-B.
 
 ### Compiler Checklist
 
-- [ ] Scanner (Lexer)
-- [ ] Parser
-- [ ] Semantics
-- [ ] Finished Compiler
+- [x] Parser
+- [x] Finished Compiler
 
 ---
 
 ## Built With
 
-* [rply](https://github.com/alex/rply)  - A pure Python parser generator, that also works with RPython.
+* [PEG.js](https://pegjs.org/documentation)  - A pure JavaScirpt parser generator.
 
 ## Getting Started
 
-Work in progress...
+Fork or download the content of the repository to your computer.
 
 ### Prerequisites
 
-Work in progress...
+- Install [Node.js] which includes [Node Package Manager][npm]
 
 ### Installing
 
-Work in progress...
+- Install the dependencies:
+
+```
+npm install
+```
+
+And run
+
+```
+node compiler.js
+```
 
 ## License
 
