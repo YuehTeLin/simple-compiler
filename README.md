@@ -36,7 +36,7 @@ npm install
 ```
 node compiler.js
 ```
-*please make sure you are in the correct folder.
+- Please make sure you are in the correct folder.
 
 ## License
 
