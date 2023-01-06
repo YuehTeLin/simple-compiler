@@ -56,7 +56,7 @@ Or `quit` to quit the program:
 
 ## License
 
-Work in progress...
+Work in progress ...
 
 [node.js]: https://nodejs.org/
 [npm]: https://www.npmjs.com/get-npm
